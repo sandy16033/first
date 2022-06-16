@@ -129,3 +129,63 @@ ls
 ls -al
 yum install git -y
 git --version
+touch filenew
+ls
+ll
+clear
+vi filenew
+cat filenew
+git status
+git add filename
+git add filenew
+git status
+git commit -m "first commit" filenew
+ git config --global sandy.email "sandy@gamil.com"
+ git config --global user.name "sandy"
+git commit -m "first commit" filenew
+ git config --global user.email "sandy@example.com"
+ git config --global user.name "sandy"
+git commit -m "first commit" filenew
+git status
+git log
+git remote add origin https://github.com/sandy16033/first.git
+ll
+git branch
+git push -u origin master
+git branch
+git branch branch1
+git branch 
+git checkout branch1
+git branch 
+ls
+touch filebranch
+ls
+git checkout master
+git branch 
+ls
+ls -l
+rm *.txt
+y
+la
+ls
+ls -l
+git status
+git add filebranch
+git commit -m"second commit" filebranch
+git status
+git push -u origin master
+git checkout branch
+git checkout branch1
+git branch
+touch file3 
+touch file4
+touch file5
+git add
+git add .
+git commit -m "branch1" .
+git push -u origin branch1
+git --version
+l
+ll
+ls -a
+clear
